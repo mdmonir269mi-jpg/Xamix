@@ -1,0 +1,10 @@
+BOT_TOKEN=9285656444:AAFoNAX7LpxkVi8OfXHprqKKrOohI-dtQEo
+LAMIX_KEY=RKKR2N8qt8K8TuPPTOvqh7ciSazY8QvuP5LwMv4lVUk
+MESSAGES_URL=https://panel.lamix.org/api/v1/messages
+# নাম্বার নেওয়ার API (ডকুমেন্টেশন থেকে পেলে বসান, না থাকলে ফাঁকা)
+NUMBER_URL=
+# auth: auto / bearer / x-api-key / query
+AUTH_MODE=auto
+# নিজের Telegram id (/id দিলে বট বলবে), /test কমান্ডের জন্য
+ADMIN_IDS=
+SUPPORT=@Monir12255
